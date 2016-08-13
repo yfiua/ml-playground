@@ -1,0 +1,4 @@
+@all: knn.py knn-tester.py
+{
+    python knn-tester.py
+}
