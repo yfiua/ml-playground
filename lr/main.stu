@@ -1,0 +1,4 @@
+@all: lr.py lr_tester.py
+{
+    python lr_tester.py
+}
