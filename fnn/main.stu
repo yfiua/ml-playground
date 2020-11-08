@@ -1,0 +1,4 @@
+@all: linear_lsr.py linear_lsr_tester.py
+{
+    python linear_lsr_tester.py
+}
